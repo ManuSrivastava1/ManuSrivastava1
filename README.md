@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu Srivastava</h1>
-<h3 align="center">I am currently enrolled in the Master's course of Digital Humanities at the Univiersity of Bologna,Italy.</h3>
+<h3 align="center">I am currently enrolled in the Master's course in Digital Humanities at the Univiersity of Bologna,Italy.</h3>
 
 - 🔭 I’m currently working on **a Digital Publication website!**
 
