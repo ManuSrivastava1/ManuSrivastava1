@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manu Srivastava</h1>
 <h3 align="center">I am currently enrolled in the Master's course of Digital Humanities at the Univiersity of Bologna,Italy.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manusrivastava1" alt="manusrivastava1" /></a> </p>
-
 - 🔭 I’m currently working on **a Digital Publication website!**
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning for Data science and Computational Linguistics.**
