@@ -12,7 +12,7 @@
 - 💬 Ask me about **how AI can write a poem?**
 
 - 📫 How to reach me **manu_srivastava@outlook.com**
-***
+<hr>
 <h3 align="left">👨‍💻 Languages and Tools: </h3> 
 
 <p align="left"> 
