@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manu Srivastava</h1>
 <h3 align="center">Currently enrolled in the Master's course in Digital Humanities at the University of Bologna,Italy. </h3>
 
-- 🔭 I’m currently working on **a Digital Publication website!**
+- 🔭 I’m currently working on **my Master's Thesis **
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning for Data science and Computational Linguistics.**
 
-- 👨‍💻 All of my projects are available at [--coming_soon--](--coming_soon--)
+- 👨‍💻 Checkout my portfolio website at - https://manus-portfolio.netlify.app/
 
 - 📝 I regularly write articles on [https://altermanu.wordpress.com/](https://altermanu.wordpress.com/)
 
