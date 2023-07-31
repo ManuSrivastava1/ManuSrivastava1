@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Master's Thesis**
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning for Data science and Computational Linguistics.**
+- 🌱 I’m currently learning **Machine Learning/Deep Learning for Data Science and Computational Linguistics.**
 
 - 👨‍💻 Checkout my portfolio website at - https://manus-portfolio.netlify.app/
 
